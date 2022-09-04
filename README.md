@@ -1,1 +1,1 @@
-# WhiteHat
+# WhiteHat offers a web vulnerability solution for securing your websites, web applications, and APIs. Our automated web security testing platform detects and protects against new vulnerabilities before they become an attacker’s weapon of choice.
