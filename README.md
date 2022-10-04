@@ -175,7 +175,7 @@ code {
     </div>
     <div class="marvellous-container">
       <div class="header">
-        <h1><span class="title-marvel">Thanos</span> <span class="title-studios">JS</span></h1>
+        <h1><span class="title-marvel">White </span> <span class="title-studios">Hat</span></h1>
         <h2>
           offers a web vulnerability solution for securing your websites, web applications, and APIs. Our automated web security testing platform detects and protects against new vulnerabilities before they become an attacker’s weapon of choice.
 
