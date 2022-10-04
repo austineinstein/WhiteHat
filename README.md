@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Thanos JS</title>
+    <title>WhiteHat</title>
     <link href="styles.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="A demo site to use with Netlify Drop">
@@ -177,9 +177,7 @@ code {
       <div class="header">
         <h1><span class="title-marvel">White </span> <span class="title-studios">Hat</span></h1>
         <h2>
-          offers a web vulnerability solution for securing your websites, web applications, and APIs. Our automated web security testing platform detects and protects against new vulnerabilities before they become an attacker’s weapon of choice.
-
-<!DOCTYPE html>
+          Offers a web vulnerability solution for securing your websites, web applications, and APIs. Our automated web security testing platform detects and protects against new vulnerabilities before they become an attacker’s weapon of choice.
         </h2>
       </div>
       <div class="installation-instructions">
@@ -197,10 +195,10 @@ code {
         <code>$ thanos snap-fingers --with-glove</code>
       </div>
       <div class="footer">
-        <img src="assets/glove.png" alt="thanos gauntlet but its like the classic emoji hands with an awful photoshop of stupid gems on it, because funny"/>
+        <img src="assets/glove.png" alt="thanos"/>
         <p>
-          This whole site is obviously a parody, <br />
-          just to demo how awesome <a target="_blank" href="https://app.netlify.com/drop">Netlify Drop is — give it a try.</a>
+          Contact one of our various partners worldwide, <br />
+          for a demo and pricing sales@procomeurope.co.uk 
         </p>
       </div>
     </div>
