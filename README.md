@@ -198,7 +198,7 @@ code {
       <div class="footer">
         <img src="glove.png" alt="whitehat"/>
         <p>
-          Contact our trusted partner, <br />
+          Contact our trusted partner <br />
           sales@procomeurope.co.uk for more details 
         </p>
       </div>
