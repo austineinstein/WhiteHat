@@ -2,12 +2,12 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>WhiteHat</title>
+    <title>WhiteHat: provides real-time visibility into your security status and allows you to understand the risks and vulnerabilities in your environment. This means you can take appropriate steps to fix them before any malicious actors get in! </title>
     <link href="styles.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="A demo site to use with Netlify Drop">
-    <meta name="keywords" content="Thanos, JavaScript, Paradoy, Netlify Drop">
-    <meta name="author" content="Rafael Conde">
+    <meta name="description" content="Detect & Protect against vulnerabilities ">
+    <meta name="keywords" content="WhiteHat, Detect & Protect against vulnerabilities ">
+    <meta name="author" content="WhiteHat">
 
     <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -181,24 +181,25 @@ code {
         </h2>
       </div>
       <div class="installation-instructions">
-        <h3>Installation</h3>
-        
-        <code>$ gem install power</code>
-        <code>$ gem install reality</code>
-        <code>$ gem install mind</code>
-        <code>$ gem install space</code>
-        <code>$ gem install time</code>
-        <code>$ gem install soul</code>
+        <h3>Detect & Protect against vulnerabilities including </h3>
+       
+
+        <code>- SQL injections</code>
+        <code>- XSS</code>
+        <code>- misconfigurations</code>
+        <code>- weak passwords</code>
+        <code>- exposed databases and </code>
+        <code>- out-of-band vulnerabilities</code>
       </div>
       <div class="usage-instructions">
         <h3>Basic Usage</h3>
-        <code>$ thanos snap-fingers --with-glove</code>
+        <code>$ WhiteHat snap-fingers --with-glove</code>
       </div>
       <div class="footer">
-        <img src="assets/glove.png" alt="thanos"/>
+        <img src="assets/glove.png" alt="whitehat"/>
         <p>
-          Contact one of our various partners worldwide, <br />
-          for a demo and pricing sales@procomeurope.co.uk 
+          Contact our trusted partner, <br />
+          sales@procomeurope.co.uk for more details 
         </p>
       </div>
     </div>
