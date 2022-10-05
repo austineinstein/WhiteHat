@@ -196,7 +196,7 @@ code {
         <code>$ WhiteHat snap-fingers --with-glove</code>
       </div>
       <div class="footer">
-        <img src="assets/glove.png" alt="whitehat"/>
+        <img src="glove.png" alt="whitehat"/>
         <p>
           Contact our trusted partner, <br />
           sales@procomeurope.co.uk for more details 
